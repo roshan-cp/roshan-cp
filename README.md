@@ -16,10 +16,6 @@ I am a Computer Science student with a strong interest in web development and so
 
 ## Projects
 
-### Shopping List App
-
-A web application for managing shopping lists with an intuitive and responsive user interface.
-
 ### IEEE Website
 
 A responsive website developed for IEEE-related activities and information sharing.
