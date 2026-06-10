@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Roshan 👋
 
-<!--
-**roshan-cp/roshan-cp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student
 
-Here are some ideas to get you started:
+💻 HTML, CSS, JavaScript
+🌱 Currently learning modern web development
+🚀 Building web applications and projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- IEEE Website
+- Portfolio Website
+
+## Connect
+LinkedIn: linkedin.com/in/roshancp
